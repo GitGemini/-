@@ -1,0 +1,6 @@
+对文件操作系列函数详解
+https://blog.csdn.net/qq_21792169/article/details/51436812
+
+
+经典加密算法凯撒密码、维吉尼亚密码,RSA算法加密的简单学习 - CSDN博客  
+http://blog.csdn.net/gxiaoqin/article/details/53543833
